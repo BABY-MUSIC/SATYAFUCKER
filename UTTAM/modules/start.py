@@ -9,10 +9,14 @@ START_BUTTON = [
     ],
     [
         Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/BABY09_WORLD"),
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/CHATING_HUB09")
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/+j6FO8pK8IIkxZDU1")
     ],
     [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/BABY-MUSIC/SATYAFUCKER")
+        Button.url("• ʙᴀʙʏ ᴍᴜsɪᴄ ʙᴏᴛ •", "https://t.me/BABY_MUSIC09_BOT")
+    ]
+],
+    [
+        Button.url("• ᴅᴍ ғᴏʀ sᴜᴅᴏ •", "https://t.me/UTTAM470")
     ]
 ]
 
