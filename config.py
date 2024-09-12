@@ -37,7 +37,7 @@ SUDO_USERS.append(OWNER_ID)
 # ------------- CLIENTS -------------
 
 X1 = TelegramClient('X1', API_ID, API_HASH).start(bot_token=7313428181:AAHPAqj8RcB3sK89ST8NQp6dvEl6cu541mg)
-X2 = TelegramClient('X2', API_ID, API_HASH).start(bot_token=7490888218:AAFboGV-9eHoTiFNgBxzy4vZEAsbg0PwbzQ)
+X2 = TelegramClient('X2', API_ID, API_HASH).start(bot_token=7426075639:AAG7nCov55hpp0ZE-M8I4qYa1fTkrRaL-ik)
 X3 = TelegramClient('X3', API_ID, API_HASH).start(bot_token=7142412211:AAE4cmjCb2Zp4batwEgfIhlDknmg13Ba8wU)
 X4 = TelegramClient('X4', API_ID, API_HASH).start(bot_token=7356183264:AAEYcFcefOmuG2uYg5QpZIw4rTk1tO0aXk4)
 X5 = TelegramClient('X5', API_ID, API_HASH).start(bot_token=7471498613:AAGS1iZwhK9nQfm82NpCPbbn6ffm2Krptb4)
