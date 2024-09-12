@@ -13,8 +13,7 @@ START_BUTTON = [
     ],
     [
         Button.url("• ʙᴀʙʏ ᴍᴜsɪᴄ ʙᴏᴛ •", "https://t.me/BABY_MUSIC09_BOT")
-    ]
-],
+    ],
     [
         Button.url("• ᴅᴍ ғᴏʀ sᴜᴅᴏ •", "https://t.me/UTTAM470")
     ]
