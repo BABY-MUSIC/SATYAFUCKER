@@ -36,22 +36,22 @@ SUDO_USERS.append(OWNER_ID)
 
 # ------------- CLIENTS -------------
 
-X1 = TelegramClient('X1', API_ID, API_HASH).start(bot_token=7463542222:AAEA-iE9VyM_k3qu9eakUCDOvYi1475bZcc)
+X1 = TelegramClient('X1', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 
-X2 = TelegramClient('X2', API_ID, API_HASH).start(bot_token=7426075639:AAG7nCov55hpp0ZE-M8I4qYa1fTkrRaL-ik)
+X2 = TelegramClient('X2', API_ID, API_HASH).start(bot_token=BOT_TOKEN2)
 
-X3 = TelegramClient('X3', API_ID, API_HASH).start(bot_token=7142412211:AAE4cmjCb2Zp4batwEgfIhlDknmg13Ba8wU)
+X3 = TelegramClient('X3', API_ID, API_HASH).start(bot_token=BOT_TOKEN3)
 
-X4 = TelegramClient('X4', API_ID, API_HASH).start(bot_token=7356183264:AAEYcFcefOmuG2uYg5QpZIw4rTk1tO0aXk4)
+X4 = TelegramClient('X4', API_ID, API_HASH).start(bot_token=BOT_TOKEN4)
 
-X5 = TelegramClient('X5', API_ID, API_HASH).start(bot_token=7471498613:AAGS1iZwhK9nQfm82NpCPbbn6ffm2Krptb4)
+X5 = TelegramClient('X5', API_ID, API_HASH).start(bot_token=BOT_TOKEN5)
 
-X6 = TelegramClient('X6', API_ID, API_HASH).start(bot_token=7445601741:AAElf5QSBA-t1pkpVfe7kBqPoznz6NuKKbc)
+X6 = TelegramClient('X6', API_ID, API_HASH).start(bot_token=BOT_TOKEN6)
 
-X7 = TelegramClient('X7', API_ID, API_HASH).start(bot_token=7448812799:AAHxgrESPhMVBgnneFluxCMHEe5w_fuRs8M)
+X7 = TelegramClient('X7', API_ID, API_HASH).start(bot_token=BOT_TOKEN7)
 
-X8 = TelegramClient('X8', API_ID, API_HASH).start(bot_token=6443871444:AAGLEmtZfBLHkMDdav6Bf8eSD7DC8SckZiM)
+X8 = TelegramClient('X8', API_ID, API_HASH).start(bot_token=BOT_TOKEN8)
 
-X9 = TelegramClient('X9', API_ID, API_HASH).start(bot_token=7015056498:AAF0xKuDYLg9GXS94UYLcqvyvCx8AlzdL6s)
+X9 = TelegramClient('X9', API_ID, API_HASH).start(bot_token=BOT_TOKEN9)
 
-X10 = TelegramClient('X10', API_ID, API_HASH).start(bot_token=7200164571:AAGr-MwIUW4vcqFx-N-oly5c9EA3SI7O_Ys)
+X10 = TelegramClient('X10', API_ID, API_HASH).start(bot_token=BOT_TOKEN10)
